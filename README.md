@@ -1,6 +1,7 @@
 # Relevant Documentation and Books
 
-https://esp-rs.github.io/book/ and its repo https://github.com/esp-rs/book
+* https://esp-rs.github.io/book/ and its repo https://github.com/esp-rs/book
+* all the repos here: https://github.com/esp-rs
 
 # Deprecation warning
 
