@@ -1,3 +1,7 @@
+# Relevant Documentation and Books
+
+https://esp-rs.github.io/book/ and its repo https://github.com/esp-rs/book
+
 # Deprecation warning
 
 The following example is suitable only for cases where the majority of logic is based on ESP-IDF. The example here uses so-called `idf first` approach.
